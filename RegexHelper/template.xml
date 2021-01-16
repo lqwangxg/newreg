@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<wxg:replaces xmlns:wxg="http://www.wangxg.com/regexhelper">
+  <template name="sample" extract="true" >
+    <item extract="true">
+      <pattern Multiline="true" IgnoreCase="true">
+        <![CDATA[
+        
+	      ]]>
+      </pattern>
+      <replace group="0">
+        <![CDATA[
+        
+	        ]]>
+      </replace>
+      <when action="true" >
+        <![CDATA[
+        
+	        ]]>
+      </when>
+    </item>
+  </template>
+</wxg:replaces>

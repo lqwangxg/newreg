@@ -1,0 +1,17 @@
+C:\00WXG\試作\Wxg.Replacer\bin\Debug\Wxg.dll
+C:\00WXG\試作\Wxg.Replacer\bin\Debug\Wxg.pdb
+C:\00WXG\試作\Wxg.Replacer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\00WXG\試作\Wxg.Replacer\obj\x86\Debug\Wxg.Properties.Resources.resources
+C:\00WXG\試作\Wxg.Replacer\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\00WXG\試作\Wxg.Replacer\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\00WXG\試作\Wxg.Replacer\obj\x86\Debug\Wxg.dll
+C:\00WXG\試作\Wxg.Replacer\obj\x86\Debug\Wxg.pdb
+D:\MyTools\Newreg\Wxg.Replacer\obj\x86\Debug\Wxg.csprojResolveAssemblyReference.cache
+D:\MyTools\Newreg\Wxg.Replacer\obj\x86\Debug\Wxg.dll
+D:\MyTools\Newreg\Wxg.Replacer\obj\x86\Debug\Wxg.pdb
+D:\workspace\C#\Newreg\Wxg.Replacer\bin\Debug\Wxg.dll
+D:\workspace\C#\Newreg\Wxg.Replacer\bin\Debug\Wxg.pdb
+D:\workspace\C#\Newreg\Wxg.Replacer\obj\x86\Debug\Wxg.Properties.Resources.resources
+D:\workspace\C#\Newreg\Wxg.Replacer\obj\x86\Debug\Wxg.csproj.GenerateResource.cache
+D:\workspace\C#\Newreg\Wxg.Replacer\obj\x86\Debug\Wxg.dll
+D:\workspace\C#\Newreg\Wxg.Replacer\obj\x86\Debug\Wxg.pdb

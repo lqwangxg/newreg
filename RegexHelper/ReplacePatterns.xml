@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<wxg:replaces xmlns:wxg="http://www.wangxg.com/regexhelper">
+  <template name="cleartext" extract="true" >
+    <item extract="true">
+      <pattern Multiline="true" IgnoreCase="true">
+      <![CDATA[
+      \w*Text\s*=\s*"[\w【】]+"
+	      ]]>
+      </pattern>
+      
+      <replace group="0">
+        <![CDATA[
+      [$1$]
+	        ]]>
+      </replace>
+      <replace group="1">
+        <![CDATA[
+      [$2$]
+	        ]]>
+      </replace>
+      <when action="true" >
+        <![CDATA[
+      \<\w+:[\w]*Item [\s\w=#"\r\n]*[/]*\>
+	        ]]>
+      </when>
+      <when action="false">
+        <![CDATA[
+      \<\w+:[\w]*Item [\s\w=#"\r\n]*[/]*\>
+	        ]]>
+      </when>
+    </item>
+    
+    <item extract="true">
+      <pattern Multiline="true" IgnoreCase="true">
+        <![CDATA[
+      \w*Text\s*=\s*"[\w【】]+"
+	      ]]>
+      </pattern>
+
+      <replace group="0">
+        <![CDATA[
+      [$1$]
+	        ]]>
+      </replace>
+      <replace group="1">
+        <![CDATA[
+      [$2$]
+	        ]]>
+      </replace>
+      <when action="true" >
+        <![CDATA[
+      \<\w+:[\w]*Item [\s\w=#"\r\n]*[/]*\>
+	        ]]>
+      </when>
+      <when action="false">
+        <![CDATA[
+      \<\w+:[\w]*Item [\s\w=#"\r\n]*[/]*\>
+	        ]]>
+      </when>
+    </item>
+  </template>
+  <template name="cleartext2" extract="true" >
+    <item extract="true">
+      <pattern Multiline="true" IgnoreCase="true">
+        <![CDATA[
+      \w*Text\s*=\s*"[\w【】]+"
+	      ]]>
+      </pattern>
+
+      <replace group="0">
+        <![CDATA[
+      [$1$]
+	        ]]>
+      </replace>
+      <replace group="1">
+        <![CDATA[
+      [$2$]
+	        ]]>
+      </replace>
+      <when action="true" >
+        <![CDATA[
+      \<\w+:[\w]*Item [\s\w=#"\r\n]*[/]*\>
+	        ]]>
+      </when>
+      <when action="false">
+        <![CDATA[
+      \<\w+:[\w]*Item [\s\w=#"\r\n]*[/]*\>
+	        ]]>
+      </when>
+    </item>
+  </template>
+</wxg:replaces>

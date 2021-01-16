@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema"
+        xmlns:wxg="http://www.wangxg.com/regexhelper"
+        targetNamespace="http://www.wangxg.com/regexhelper">
+  
+  <annotation>
+    <appinfo>
+      RegexHelper CAN REPLACE ALL GROUP VALUES.
+    </appinfo>
+    <documentation>
+      RegexHelper's Schema For REPLACE PATTERN.
+      Copyright 2011 WANGXG. All rights reserved.
+    </documentation>
+  </annotation>
+  <complexType mixed="true" name="groupType">
+    <simpleContent >
+      <extension base="string">
+        <attribute name="index" type="nonNegativeInteger" use="required" />
+      </extension>
+    </simpleContent>
+  </complexType>
+  <complexType mixed="true" name="replaceType">
+    <simpleContent >
+      <extension base="string" >
+        <attribute name="group" type="nonNegativeInteger" use="required" />
+      </extension>
+    </simpleContent>
+  </complexType>
+  
+  <complexType mixed="true" name="patternType">
+    <simpleContent >
+      <extension base="string" >
+        <attribute name="None" type="boolean" use="optional" default="false" />
+        <attribute name="IgnoreCase" type="boolean" use="optional" default="true" />
+        <attribute name="Multiline" type="boolean" use="optional" default="true" />
+        <attribute name="ExplicitCapture" type="boolean" use="optional" default="true" />
+        <attribute name="Compiled" type="boolean" use="optional" default="false" />
+        <attribute name="Singleline" type="boolean" use="optional" default="false" />
+        <attribute name="IgnorePatternWhitespace" type="boolean" use="optional" default="false" />
+        <attribute name="RightToLeft" type="boolean" use="optional" default="false" />
+        <attribute name="ECMAScript" type="boolean" use="optional" default="false" />
+        <attribute name="CultureInvariant" type="boolean" use="optional" default="false" />
+      </extension>
+    </simpleContent>
+  </complexType>
+  
+  <complexType mixed="true" name="whenType">
+    <simpleContent>
+      <extension base="wxg:patternType" >
+        <attribute name="action" type="boolean" use="required" />
+      </extension>
+    </simpleContent>
+  </complexType>
+  
+  <element name="replaces">
+    <complexType>
+      <choice maxOccurs="unbounded" minOccurs ="1">
+        <element name="template">
+          <complexType>
+            <choice maxOccurs="unbounded" minOccurs ="1">
+              <element name="item">
+                <complexType>
+                  <sequence>
+                    <element name="pattern" minOccurs="1" maxOccurs="1" type="wxg:patternType" />
+                    <element name="replace" minOccurs="1" maxOccurs="unbounded" type="wxg:replaceType" />
+                    <element name="when" minOccurs="0" maxOccurs="unbounded" type="wxg:whenType" />
+                  </sequence>
+                  <attribute name="extract" type="boolean" use="optional" default="false"></attribute>
+                </complexType> 
+              </element>
+            </choice>
+            <attribute name="name" type="Name" use="required"></attribute>
+            <attribute name="file" type="anyURI" use="optional"></attribute>
+            <attribute name="dictionary" type="anyURI" use="optional"></attribute>
+            <attribute name="extract" type="boolean" use="optional" default="false"></attribute>
+          </complexType>
+        </element>
+      </choice>
+    </complexType>
+  </element>
+</schema>

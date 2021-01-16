@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="RegexHelper">
+</Property><Property Name="Solution File" Value="F:\devop\Replacer\SRC\RegexHelper\RegexHelper.sln">
+</Property><Property Name="Date" Value="2011年2月11日">
+</Property><Property Name="Time" Value="13:39:46">
+</Property></Properties><Event ErrorLevel="0" Project="RegexHelper" Source="RegexHelper.csproj" Description="Project file successfully backed up as F:\devop\Replacer\SRC\RegexHelper\Backup\RegexHelper.csproj">
+</Event><Event ErrorLevel="0" Project="RegexHelper" Source="RegexHelper.csproj.user" Description="Project user file successfully backed up as F:\devop\Replacer\SRC\RegexHelper\Backup\RegexHelper.csproj.user">
+</Event><Event ErrorLevel="0" Project="RegexHelper" Source="FrmReplaceFile.cs" Description="File successfully backed up as F:\devop\Replacer\SRC\RegexHelper\Backup\FrmReplaceFile.cs">
+</Event><Event ErrorLevel="0" Project="RegexHelper" Source="FrmReplaceFile.Designer.cs" Description="File successfully backed up as F:\devop\Replacer\SRC\RegexHelper\Backup\FrmReplaceFile.Designer.cs">
+</Event><Event ErrorLevel="0" Project="RegexHelper" Source="FrmRegex.cs" Description="File successfully backed up as F:\devop\Replacer\SRC\RegexHelper\Backup\FrmRegex.cs">
+</Event><Event ErrorLevel="0" Project="RegexHelper" Source="FrmRegex.Designer.cs" Description="File successfully backed up as F:\devop\Replacer\SRC\RegexHelper\Backup\FrmRegex.Designer.cs">
+</Event><Event ErrorLevel="0" Project="RegexHelper" Source="Program.cs" Description="File successfully backed up as F:\devop\Replacer\SRC\RegexHelper\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="RegexHelper" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as F:\devop\Replacer\SRC\RegexHelper\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="RegexHelper" Source="Properties\Resources.Designer.cs" Description="File successfully backed up as F:\devop\Replacer\SRC\RegexHelper\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="RegexHelper" Source="Properties\Settings.Designer.cs" Description="File successfully backed up as F:\devop\Replacer\SRC\RegexHelper\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="RegexHelper" Source="App.config" Description="File successfully backed up as F:\devop\Replacer\SRC\RegexHelper\Backup\App.config">
+</Event><Event ErrorLevel="0" Project="RegexHelper" Source="Properties\Settings.settings" Description="File successfully backed up as F:\devop\Replacer\SRC\RegexHelper\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="RegexHelper" Source="Butterfly.ico" Description="File successfully backed up as F:\devop\Replacer\SRC\RegexHelper\Backup\Butterfly.ico">
+</Event><Event ErrorLevel="0" Project="RegexHelper" Source="Elephant.ico" Description="File successfully backed up as F:\devop\Replacer\SRC\RegexHelper\Backup\Elephant.ico">
+</Event><Event ErrorLevel="0" Project="RegexHelper" Source="ReplacePatterns.xml" Description="File successfully backed up as F:\devop\Replacer\SRC\RegexHelper\Backup\ReplacePatterns.xml">
+</Event><Event ErrorLevel="0" Project="RegexHelper" Source="FrmReplaceFile.resx" Description="File successfully backed up as F:\devop\Replacer\SRC\RegexHelper\Backup\FrmReplaceFile.resx">
+</Event><Event ErrorLevel="0" Project="RegexHelper" Source="FrmRegex.resx" Description="File successfully backed up as F:\devop\Replacer\SRC\RegexHelper\Backup\FrmRegex.resx">
+</Event><Event ErrorLevel="0" Project="RegexHelper" Source="Properties\Resources.resx" Description="File successfully backed up as F:\devop\Replacer\SRC\RegexHelper\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="RegexHelper" Source="RegexHelper.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="RegexHelper" Source="RegexHelper.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="RegexHelper" Source="RegexHelper.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

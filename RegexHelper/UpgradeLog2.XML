@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="RegexHelper">
+</Property><Property Name="Solution File" Value="F:\devop\Replacer\SRC\RegexHelper\RegexHelper.sln">
+</Property><Property Name="Date" Value="2011年2月11日">
+</Property><Property Name="Time" Value="13:40:52">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="Wxg" Source="..\Wxg\Wxg.csproj" Description="Project file successfully backed up as F:\devop\Replacer\SRC\RegexHelper\Backup1\Wxg.csproj">
+</Event><Event ErrorLevel="0" Project="Wxg" Source="..\Wxg\Wxg.csproj.user" Description="Project user file successfully backed up as F:\devop\Replacer\SRC\RegexHelper\Backup1\Wxg.csproj.user">
+</Event><Event ErrorLevel="0" Project="Wxg" Source="..\Wxg\DesignPattern\Command\Command.cs" Description="File successfully backed up as F:\devop\Replacer\SRC\RegexHelper\Backup1\DesignPattern\Command\Command.cs">
+</Event><Event ErrorLevel="0" Project="Wxg" Source="..\Wxg\DesignPattern\Command\Invoker.cs" Description="File successfully backed up as F:\devop\Replacer\SRC\RegexHelper\Backup1\DesignPattern\Command\Invoker.cs">
+</Event><Event ErrorLevel="0" Project="Wxg" Source="..\Wxg\DesignPattern\Command\Receiver.cs" Description="File successfully backed up as F:\devop\Replacer\SRC\RegexHelper\Backup1\DesignPattern\Command\Receiver.cs">
+</Event><Event ErrorLevel="0" Project="Wxg" Source="..\Wxg\DesignPattern\Factorys\AbstractFactory.cs" Description="File successfully backed up as F:\devop\Replacer\SRC\RegexHelper\Backup1\DesignPattern\Factorys\AbstractFactory.cs">
+</Event><Event ErrorLevel="0" Project="Wxg" Source="..\Wxg\DesignPattern\Factorys\SimpleFactory.cs" Description="File successfully backed up as F:\devop\Replacer\SRC\RegexHelper\Backup1\DesignPattern\Factorys\SimpleFactory.cs">
+</Event><Event ErrorLevel="0" Project="Wxg" Source="..\Wxg\Extentions\ExtentionHelper.cs" Description="File successfully backed up as F:\devop\Replacer\SRC\RegexHelper\Backup1\Extentions\ExtentionHelper.cs">
+</Event><Event ErrorLevel="0" Project="Wxg" Source="..\Wxg\IO\FileWatcher.cs" Description="File successfully backed up as F:\devop\Replacer\SRC\RegexHelper\Backup1\IO\FileWatcher.cs">
+</Event><Event ErrorLevel="0" Project="Wxg" Source="..\Wxg\IO\Logger.cs" Description="File successfully backed up as F:\devop\Replacer\SRC\RegexHelper\Backup1\IO\Logger.cs">
+</Event><Event ErrorLevel="0" Project="Wxg" Source="..\Wxg\Properties\Resources.Designer.cs" Description="File successfully backed up as F:\devop\Replacer\SRC\RegexHelper\Backup1\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Wxg" Source="..\Wxg\Replace\FilterItem.cs" Description="File successfully backed up as F:\devop\Replacer\SRC\RegexHelper\Backup1\Replace\FilterItem.cs">
+</Event><Event ErrorLevel="0" Project="Wxg" Source="..\Wxg\IO\FileHelper.cs" Description="File successfully backed up as F:\devop\Replacer\SRC\RegexHelper\Backup1\IO\FileHelper.cs">
+</Event><Event ErrorLevel="0" Project="Wxg" Source="..\Wxg\Properties\AssemblyInfo.cs" Description="File successfully backed up as F:\devop\Replacer\SRC\RegexHelper\Backup1\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Wxg" Source="..\Wxg\Replace\ReplaceConst.cs" Description="File successfully backed up as F:\devop\Replacer\SRC\RegexHelper\Backup1\Replace\ReplaceConst.cs">
+</Event><Event ErrorLevel="0" Project="Wxg" Source="..\Wxg\Replace\ReplaceFilter.cs" Description="File successfully backed up as F:\devop\Replacer\SRC\RegexHelper\Backup1\Replace\ReplaceFilter.cs">
+</Event><Event ErrorLevel="0" Project="Wxg" Source="..\Wxg\Replace\Impl\GroupReplacer.cs" Description="File successfully backed up as F:\devop\Replacer\SRC\RegexHelper\Backup1\Replace\Impl\GroupReplacer.cs">
+</Event><Event ErrorLevel="0" Project="Wxg" Source="..\Wxg\Replace\IReplacer.cs" Description="File successfully backed up as F:\devop\Replacer\SRC\RegexHelper\Backup1\Replace\IReplacer.cs">
+</Event><Event ErrorLevel="0" Project="Wxg" Source="..\Wxg\Replace\ReplaceFactory.cs" Description="File successfully backed up as F:\devop\Replacer\SRC\RegexHelper\Backup1\Replace\ReplaceFactory.cs">
+</Event><Event ErrorLevel="0" Project="Wxg" Source="..\Wxg\Replace\ReplacePattern.cs" Description="File successfully backed up as F:\devop\Replacer\SRC\RegexHelper\Backup1\Replace\ReplacePattern.cs">
+</Event><Event ErrorLevel="0" Project="Wxg" Source="..\Wxg\Replace\Replacement.cs" Description="File successfully backed up as F:\devop\Replacer\SRC\RegexHelper\Backup1\Replace\Replacement.cs">
+</Event><Event ErrorLevel="0" Project="Wxg" Source="..\Wxg\Replace\ReplacePatternLoader.cs" Description="File successfully backed up as F:\devop\Replacer\SRC\RegexHelper\Backup1\Replace\ReplacePatternLoader.cs">
+</Event><Event ErrorLevel="0" Project="Wxg" Source="..\Wxg\Replace\ReplaceReference.cs" Description="File successfully backed up as F:\devop\Replacer\SRC\RegexHelper\Backup1\Replace\ReplaceReference.cs">
+</Event><Event ErrorLevel="0" Project="Wxg" Source="..\Wxg\Replace\ReplaceUtils.cs" Description="File successfully backed up as F:\devop\Replacer\SRC\RegexHelper\Backup1\Replace\ReplaceUtils.cs">
+</Event><Event ErrorLevel="0" Project="Wxg" Source="..\Wxg\Utils\Parameters.cs" Description="File successfully backed up as F:\devop\Replacer\SRC\RegexHelper\Backup1\Utils\Parameters.cs">
+</Event><Event ErrorLevel="0" Project="Wxg" Source="..\Wxg\Threads\ThreadHelper.cs" Description="File successfully backed up as F:\devop\Replacer\SRC\RegexHelper\Backup1\Threads\ThreadHelper.cs">
+</Event><Event ErrorLevel="0" Project="Wxg" Source="..\Wxg\UI\Forms\HighLight.cs" Description="File successfully backed up as F:\devop\Replacer\SRC\RegexHelper\Backup1\UI\Forms\HighLight.cs">
+</Event><Event ErrorLevel="0" Project="Wxg" Source="..\Wxg\Utils\CollectionUtil.cs" Description="File successfully backed up as F:\devop\Replacer\SRC\RegexHelper\Backup1\Utils\CollectionUtil.cs">
+</Event><Event ErrorLevel="0" Project="Wxg" Source="..\Wxg\Utils\Xmler.cs" Description="File successfully backed up as F:\devop\Replacer\SRC\RegexHelper\Backup1\Utils\Xmler.cs">
+</Event><Event ErrorLevel="0" Project="Wxg" Source="..\Wxg\wxg.key.pfx" Description="File successfully backed up as F:\devop\Replacer\SRC\RegexHelper\Backup1\wxg.key.pfx">
+</Event><Event ErrorLevel="0" Project="Wxg" Source="..\Wxg\Properties\Resources.resx" Description="File successfully backed up as F:\devop\Replacer\SRC\RegexHelper\Backup1\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Wxg" Source="..\Wxg\WxgConfig.xml" Description="File successfully backed up as F:\devop\Replacer\SRC\RegexHelper\Backup1\WxgConfig.xml">
+</Event><Event ErrorLevel="0" Project="Wxg" Source="..\Wxg\Wxg.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Wxg" Source="..\Wxg\Wxg.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Wxg" Source="..\Wxg\Wxg.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<wxg>
+    <system>
+        <patterns>
+            <pattern name="refmatch">
+                <![CDATA[
+                \{\$(\d+)\$\}
+                ]]>
+            </pattern>
+            
+            <pattern name="refconst">
+                <![CDATA[
+                \[\$([\w\s]*)\$\]
+                ]]>
+            </pattern>
+            
+            <pattern name="refargs">
+                <![CDATA[
+                \<\$([\w\s]+)\$\>
+                ]]>
+            </pattern>
+            
+            <pattern name="reffile">
+                <![CDATA[
+                (\{\$FILE:)([\w\s\.\-:\/\\@\[\]\(\)\{\}\$\!\%\*]+)(\$\})
+                ]]>
+            </pattern>
+            <pattern name="refdicfile">
+                <![CDATA[
+                \<\$KEY:([\w]+)\$\>
+                ]]>
+            </pattern>
+            
+            <pattern name="refdicfile_index">
+                <![CDATA[
+                \<\$KEY:([\w]+)\[(\d+)\]\$\>
+                ]]>
+            </pattern>
+            <pattern name="refdicfile_groupindex">
+                <![CDATA[
+                __GROUP_INDEX__
+                ]]>
+            </pattern>
+            <pattern name="refdicfile_currentgroup">
+                <![CDATA[
+                __CURRENT_GROUP_VALUE__
+                ]]>
+            </pattern>
+            
+        </patterns>
+    </system>
+</wxg>
